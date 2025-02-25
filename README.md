@@ -1,4 +1,4 @@
-# Transformer Text Generation Lab
+# Transformer for Text Generation
 
 ## Overview
 
